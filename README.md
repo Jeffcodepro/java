@@ -1,6 +1,6 @@
-#JAVA 1
+# JAVA 1
 
-##O que foi aprendido?
+## O que foi aprendido?
 
 - Utilizando o terminal, já dentro da pasta em que guardo os repositórios do github,
 executei o comando: touch Programa.java e assim criei um arquivo com o mesmo nome.
@@ -8,7 +8,7 @@ executei o comando: touch Programa.java e assim criei um arquivo com o mesmo nom
 - Naveguei dentro do arquivo criado usando o comando nano e editei pelo terminal a
 fim de dominar o uso de comandos básicos, porém eficientes, do terminal.
 
-##Estrutura Java
+## Estrutura Java
 
 - Pela convenção criada na primeira linha do arquivo utilizamos o public, pois ele
 é um modificador de acesso, definindo quem pode enxergar e usar a classe.
@@ -27,7 +27,7 @@ de um objeto para ser executado.
 
 - Utilizando a biblioteca System.out.println, podemos imprimir mensagens na tela.
 
-##Compilador
+## Compilador
 
 - Para compilar o código feito dentro do Programa.java, utilizamos o comando javac, que é o compilador
 do java.
