@@ -1,5 +1,7 @@
 # JAVA 1
 
+## Aula 01
+
 ## O que foi aprendido?
 
 - Utilizando o terminal, já dentro da pasta em que guardo os repositórios do github,
@@ -37,3 +39,43 @@
 - Para executar o programa, utilizamos o comando java Programa, que é o interpretador do java.
 
 - Após rodar o comando java Programa, o programa é executado.
+
+
+## Aula 02
+
+- Não tenha medo de explorar o porque das coisas funcionarem ou não dentro do código, antes de perguntar como funciona determinada estrutura, procure testar.
+
+
+### Tipos primitivos
+
+- São estruturas que pertencem ao pacote java.lang e são usados para
+representar tipos de dados printivos.
+
+- Temos oito tipos primitivos:
+Inteiros: byte, short, int, long
+Ponto Flutuante: float, double
+Caractere: char
+Booleano: boolean (Representa verdadeiro ou falso)
+
+- Para seguir os primitivos temos seus conceitos mais atualizados chamados de
+wrappers:
+
+byte -> Byte
+
+short -> Short
+
+int -> Integer
+
+long -> Long
+
+float -> Float
+
+double -> Double
+
+char -> Character
+
+boolean -> Boolean
+
+### Desafio
+
+- Criar uma calculadora simples que receba dois números e um operador e retorne o resultado da operação.
